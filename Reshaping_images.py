@@ -1,4 +1,6 @@
-# 
+# Nitin Rai
+# Department of Agriculture and Biosystems Engineering
+# North Dakota State University
 from PIL import Image
 import os, sys
 # This was my file path
