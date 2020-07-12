@@ -1,6 +1,7 @@
 # 
 from PIL import Image
 import os, sys
+# This was my file path
 path = "C:/Users/nitin/OneDrive/Desktop/Python_Algorithms/Dataset_Preparation/train/sugar_beet/"
 dirs = os.listdir(path)
 def resize():
