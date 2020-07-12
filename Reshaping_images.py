@@ -5,7 +5,6 @@ import os, sys
 path = "C:/Users/nitin/OneDrive/Desktop/Python_Algorithms/Dataset_Preparation/train/sugar_beet/"
 dirs = os.listdir(path)
 def resize():
-
     for item in dirs:
         if os.path.isfile(path+item):
             im = Image.open(path+item)
